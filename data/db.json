@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Alias ipsam excepturi corrupti facilis minus porro consectetur molestiae minima quae quia.",
+      "author": "ishmael",
+      "id": 1
+    },
+    {
+      "title": "Welcome Party",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam similique adipisci animi quod minus incidunt nostrum eius, aliquid praesentium natus!",
+      "author": "isaac",
+      "id": 2
+    },
+    {
+      "title": "My new website",
+      "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore obcaecati nulla qui? Animi nostrum quas suscipit aliquid mollitia, aperiam molestiae.",
+      "author": "nicholas",
+      "id": 3
+    }
+  ]
+}
